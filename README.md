@@ -1,2 +1,3 @@
 # image-processing-demo
-A demonstration of using scikit-image to load and process an image.
+
+An interactive demonstration of using scikit-image to load and process an image.
